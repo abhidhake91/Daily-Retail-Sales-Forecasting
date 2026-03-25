@@ -39,7 +39,7 @@ A data-driven forecasting system that:
 
 ## 🚀 How to Run
 
-```bash
+```
 pip install -r requirements.txt
 python generate_sales_data.py
 python eda_analysis.py
